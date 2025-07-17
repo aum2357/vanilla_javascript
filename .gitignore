@@ -1,2 +1,14 @@
 .idea
 *.sh
+ arrow_function_basics.js
+ basic_operators.js
+ conditional_branching.js
+ function_expression.js
+ functions.js
+ interaction.js
+ logical_operator.js
+ loops-switch.js
+
+ primitive_data_types.js
+ type_conversion.js
+ use_strict.txt
