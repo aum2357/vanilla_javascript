@@ -15,3 +15,4 @@ for (const arrayElement of array) {
     console.log(arrayElement);
 }
 delete array[1];
+
